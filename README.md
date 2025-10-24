@@ -1,2 +1,1 @@
-# Coding
-Code Archive by Shadnan Mahmud
+Welcome to my <strong>Code Archive Repository</strong>! This repository serves as a centralized collection of important scripts, programs, and code snippets that I&rsquo;ve developed or curated. The purpose is to archive valuable code for future reference, reuse, or sharing with others. The repository includes a variety of projects, utilities, and experiments across different programming languages and domains. The repository is accessible at <a href="https://code.shadnan.com" target="_blank">code.shadnan.com</a>.
